@@ -1,7 +1,7 @@
 (self.webpackChunk_N_E = self.webpackChunk_N_E || []).push([
     [947], {
         9221: function(A, e, a) {
-            (window.__NEXT_P = window.__NEXT_P || []).push(["/projects/slice", function() {
+            (window.__NEXT_P = window.__NEXT_P || []).push(["/projects/smdb", function() {
                 return a(3479)
             }])
         },
@@ -418,7 +418,7 @@
                 F = a(2678),
                 _ = a.n(F),
                 k = "SMDb: Empowering Film Fanatics",
-                v = "This project involved designing a better way for biomedical educators and learners to annotate digital slides together.",
+                v = "This project involved designing a clone website of IMDb and I named my website as SMDb.",
                 K = ["User Research", "UX Design", "Interface Design"],
                 T = function() {
                     return (0, t.jsxs)(f.Fragment, {
@@ -436,7 +436,7 @@
                             }), (0, t.jsx)(P.T4, {
                                 title: k,
                                 description: v,
-                                url: "https://www.best.edu.au/s/q2yjjvl7?data=8%404!9%4020303!10%40-15087&version=1",
+                                url: "https://smdb-eight.vercel.app/",
                                 roles: K
                             }), (0, t.jsx)(P.II, {
                                 padding: "top",

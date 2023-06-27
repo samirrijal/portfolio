@@ -1,7 +1,7 @@
 (self.webpackChunk_N_E = self.webpackChunk_N_E || []).push([
     [408], {
         8454: function(A, e, t) {
-            (window.__NEXT_P = window.__NEXT_P || []).push(["/projects/smart-sparrow", function() {
+            (window.__NEXT_P = window.__NEXT_P || []).push(["/projects/sneaker-wonderland", function() {
                 return t(9213)
             }])
         },

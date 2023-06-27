@@ -768,7 +768,7 @@
                   "In my spare time I like to sing, play chess, play instruments, travel and",
                   " ",
                   (0, n.jsx)(H.r, {
-                    href: "/projects/volkihar-knight",
+                    href: "/projects/dumpling-diaries",
                     children: "make illustrations",
                   }),
                   ". I\u2019m always down for hearing about new projects, so feel free to drop me a line. ",
@@ -1174,7 +1174,7 @@
                   description:
                     "Exploring the Artistry of Shoe Design Discover the Perfect Pair for Your Journey",
                   buttonText: "View project",
-                  buttonLink: "/projects/smart-sparrow",
+                  buttonLink: "/projects/sneaker-wonderland",
                   model: {
                     type: "laptop",
                     alt: "Smart Sparrow lesson builder",
@@ -1210,7 +1210,7 @@
                   description:
                     "Unlocking a World of Cinematic Exploration Enhancing the Movie Experience with SMDb",
                   buttonText: "View project",
-                  buttonLink: "/projects/slice",
+                  buttonLink: "/projects/smdb",
                   model: {
                     type: "laptop",
                     alt: "Annotating a biomedical image in the Slice app",
