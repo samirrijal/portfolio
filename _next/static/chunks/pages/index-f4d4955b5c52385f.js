@@ -51,7 +51,7 @@
     9777: function (A, e) {
       "use strict";
       e.Z = {
-        src: "/_next/static/media/slice-app-large.9401abfe.jpg",
+        src: "/_next/static/media/smdb-page-large.9401abfe.jpg",
         height: 1200,
         width: 1920,
         blurDataURL:
@@ -71,7 +71,7 @@
     2779: function (A, e) {
       "use strict";
       e.Z = {
-        src: "/_next/static/media/slice-app.cae751d1.jpg",
+        src: "/_next/static/media/smdb-page.cae751d1.jpg",
         height: 500,
         width: 800,
         blurDataURL:
@@ -81,7 +81,7 @@
     864: function (A, e) {
       "use strict";
       e.Z = {
-        src: "/_next/static/media/spr-lesson-builder-dark-large.61fac4f6.jpg",
+        src: "/_next/static/media/nike-page-dark-large.61fac4f6.jpg",
         height: 1600,
         width: 2560,
         blurDataURL:
@@ -101,7 +101,7 @@
     8083: function (A, e) {
       "use strict";
       e.Z = {
-        src: "/_next/static/media/spr-lesson-builder-dark.a0a31497.jpg",
+        src: "/_next/static/media/nike-page-dark.a0a31497.jpg",
         height: 800,
         width: 1280,
         blurDataURL:
@@ -439,7 +439,7 @@
         a = t(9815),
         n = t(5893),
         s = {
-          src: "/_next/static/media/gamestack-list-large.3ad53003.jpg",
+          src: "/_next/static/media/examen-panamera-page1-large.3ad53003.jpg",
           height: 1624,
           width: 750,
           blurDataURL:
@@ -453,14 +453,14 @@
             "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoKCgoKCgsMDAsPEA4QDxYUExMUFiIYGhgaGCIzICUgICUgMy03LCksNy1RQDg4QFFeT0pPXnFlZXGPiI+7u/sBCgoKCgoKCwwMCw8QDhAPFhQTExQWIhgaGBoYIjMgJSAgJSAzLTcsKSw3LVFAODhAUV5PSk9ecWVlcY+Ij7u7+//CABEIAAgABAMBIgACEQEDEQH/xAAoAAEBAAAAAAAAAAAAAAAAAAAABgEBAQAAAAAAAAAAAAAAAAAAAgP/2gAMAwEAAhADEAAAAIIVH//EABgQAAMBAQAAAAAAAAAAAAAAAAECAwBB/9oACAEBAAE/ALo0qFAODf/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AI//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwCv/9k=",
         },
         o = {
-          src: "/_next/static/media/gamestack-list.42ee35ee.jpg",
+          src: "/_next/static/media/examen-panamera-page1.42ee35ee.jpg",
           height: 812,
           width: 375,
           blurDataURL:
             "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoKCgoKCgsMDAsPEA4QDxYUExMUFiIYGhgaGCIzICUgICUgMy03LCksNy1RQDg4QFFeT0pPXnFlZXGPiI+7u/sBCgoKCgoKCwwMCw8QDhAPFhQTExQWIhgaGBoYIjMgJSAgJSAzLTcsKSw3LVFAODhAUV5PSk9ecWVlcY+Ij7u7+//CABEIAAgABAMBIgACEQEDEQH/xAAoAAEBAAAAAAAAAAAAAAAAAAAABgEBAQAAAAAAAAAAAAAAAAAAAgP/2gAMAwEAAhADEAAAAI4UP//EABwQAAICAgMAAAAAAAAAAAAAAAEDAgQAESEiMf/aAAgBAQABPwC6t1ayxUNxA1wO3oz/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oACAECAQE/AH//xAAXEQEAAwAAAAAAAAAAAAAAAAABABEh/9oACAEDAQE/ALXZ/9k=",
         },
         c = {
-          src: "/_next/static/media/gamestack-login-large.e7ae2cc6.jpg",
+          src: "/_next/static/media/examen-panamera-page2-large.e7ae2cc6.jpg",
           height: 1624,
           width: 750,
           blurDataURL:
@@ -474,7 +474,7 @@
             "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoKCgoKCgsMDAsPEA4QDxYUExMUFiIYGhgaGCIzICUgICUgMy03LCksNy1RQDg4QFFeT0pPXnFlZXGPiI+7u/sBCgoKCgoKCwwMCw8QDhAPFhQTExQWIhgaGBoYIjMgJSAgJSAzLTcsKSw3LVFAODhAUV5PSk9ecWVlcY+Ij7u7+//CABEIAAgABAMBIgACEQEDEQH/xAAoAAEBAAAAAAAAAAAAAAAAAAAABwEBAQAAAAAAAAAAAAAAAAAAAwT/2gAMAwEAAhADEAAAAJ8KS//EABgQAAIDAAAAAAAAAAAAAAAAAAECAFGR/9oACAEBAAE/AGL2Nn//xAAWEQADAAAAAAAAAAAAAAAAAAAAARL/2gAIAQIBAT8AlH//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwCv/9k=",
         },
         g = {
-          src: "/_next/static/media/gamestack-login.4ef67fc8.jpg",
+          src: "/_next/static/media/examen-panamera-page2.4ef67fc8.jpg",
           height: 812,
           width: 375,
           blurDataURL:
