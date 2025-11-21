@@ -49,23 +49,27 @@ export default function Chess({
                 {/* Additional lighting for better visibility */}
                 {visible && (
                     <>
-                        <ambientLight intensity={3} />
+                        <ambientLight intensity={4} />
                         <hemisphereLight
                             color="#ffffff"
                             groundColor="#cccccc"
-                            intensity={2}
+                            intensity={30}
                         />
                         <directionalLight
                             position={[5, 5, 5]}
-                            intensity={2}
+                            intensity={2.5}
                         />
                         <directionalLight
                             position={[-5, 3, -3]}
-                            intensity={1.5}
+                            intensity={2}
+                        />
+                        <directionalLight
+                            position={[5, 3, 3]}
+                            intensity={50}
                         />
                         <pointLight
                             position={[2, 2, 2]}
-                            intensity={1.5}
+                            intensity={2}
                         />
                     </>
                 )}
@@ -74,7 +78,7 @@ export default function Chess({
                     <boxGeometry args={[1, 1, 1]} />
                     <meshStandardMaterial opacity={0} transparent />
                 </mesh>
-                <primitive object={scene} scale={0.09} />
+                <primitive object={scene} scale={0.08} />
             </group>
         </>
     );

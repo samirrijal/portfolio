@@ -36,6 +36,14 @@ export default function Helmet({
                 visible={visible}
                 renderOrder={visible ? 1 : 0}
             >
+                {visible && (
+                    <>
+                        <ambientLight intensity={4} />
+                        <directionalLight position={[5, 5, 5]} intensity={2.5} />
+                        <directionalLight position={[-5, 3, -3]} intensity={2} />
+                        <pointLight position={[0, 2, 2]} intensity={2} />
+                    </>
+                )}
                 {/* Transparent box to avoid empty spaces in the group. PresentationControls don't grab empty spaces */}
                 <mesh>
                     <boxGeometry args={[1, 1, 1]} />
