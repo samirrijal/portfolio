@@ -1,0 +1,29 @@
+/* ==========================================================================
+    Coming Soon
+========================================================================== */
+
+.c-comingSoon {
+    &__content {
+        display: flex;
+        justify-content: center;
+        padding: 30px 0;
+        border-top: 1px solid rgba(var(--color-text-rgb), 0.1);
+    }
+
+    &__text {
+        margin: 0;
+        font-size: var(--paragraph-size);
+        font-weight: var(--font-medium);
+        opacity: 0.5;
+        text-align: center;
+    }
+
+    // **---------------------------------------------------**
+    // MEDIA QUERIES
+
+    @include mediaq('>MD') {
+        &__content {
+            padding: 40px 0;
+        }
+    }
+}
