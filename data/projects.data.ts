@@ -51,7 +51,7 @@ export const PERSONAL_PROJECTS: Lang<Projects> = {
         {
             title: 'Portfolio',
             description: 'Portfolio creado con Next.js, Typescript y GSAP',
-            image: '/static/images/projects/portfolio-es.jpg',
+            image: '/static/images/projects/portfolio-en.jpg',
             githubUrl: 'https://github.com/gcolombi/personal-website'
         },
         {
